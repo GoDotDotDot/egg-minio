@@ -1,0 +1,34 @@
+{
+  "name": "@godotdotdot/egg-minio",
+  "version": "1.0.1",
+  "description": "minio plugin for egg",
+  "eggPlugin": {
+    "name": "minio",
+    "dependencies": []
+  },
+  "keywords": [
+    "egg",
+    "eggPlugin",
+    "egg-plugin",
+    "minio",
+    "s3"
+  ],
+  "dependencies": {
+    "minio": "^7.0.16"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "devDependencies": {
+    "@types/minio": "^7.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoDotDotDot/egg-minio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GoDotDotDot/egg-minio/issues"
+  },
+  "homepage": "https://github.com/GoDotDotDot/egg-minio#readme",
+  "author": "godotdotdot"
+}
