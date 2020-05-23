@@ -1,5 +1,7 @@
 # Egg plugin for MinIO
 
+# This repo is not under maintenance, please go to [https://github.com/mete-work/egg-minio](https://github.com/mete-work/egg-minio)
+
 ### Config
 
 ```js
